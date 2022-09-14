@@ -8,7 +8,8 @@ Project aims to create Todo_list within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Digital_Clock](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| Html Css Js | (clock.gif)
+[Digital_Clock](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| Html Css Js |![Digital_clock](clock.gif)
+
 
 
 ## Problem Statement
