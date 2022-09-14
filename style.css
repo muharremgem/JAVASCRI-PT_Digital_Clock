@@ -99,3 +99,18 @@ body{
     box-shadow: 0 0 20px var(--clr),
     0 0 60px var(--clr);
 }
+
+@media screen and (min-width:0px) and (max-width:570px){
+    
+    .clock{
+        display: flex;
+        flex-direction: column;
+        
+        
+    } 
+    #time{
+        gap: 5px;
+    }
+  
+
+}    
