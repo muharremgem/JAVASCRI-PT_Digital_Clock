@@ -101,16 +101,11 @@ body{
 }
 
 @media screen and (min-width:0px) and (max-width:570px){
-    
     .clock{
         display: flex;
         flex-direction: column;
-        
-        
     } 
     #time{
         gap: 5px;
     }
-  
-
 }    
